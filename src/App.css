@@ -1,0 +1,79 @@
+.app {
+  text-align: center;
+}
+
+.app-logo {
+  height: 40px;
+}
+
+.app-header {
+  text-align: center;
+  background-color: #91B2FF;
+  height: 150px;
+  padding: 20px;
+}
+
+.app-title {
+  width: 100%;
+  font-size: 1.5em;
+  display: inline-block;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.calendar {
+  margin-top: 30px;
+  float: left;
+  width: 350px;
+}
+
+.time-error {
+  font-size: 12px;
+  color: red;
+}
+.error {
+  font-size: 12px;
+  color: red;
+  margin-top: 10px;
+}
+
+#react-time-range {
+  margin-bottom: 15px;
+}
+
+.schedule-btn {
+  background: #91B2FF;
+  border-color: #91B2FF;
+  color: black;
+  margin-top: 15px;
+  border-radius: 4px;
+  padding: 10px;
+  font-weight: 600;
+}
+
+.schedule-btn:disabled {
+  background: #a1a4a8;
+  border-color: #a1a4a8;
+}
+
+.appointments {
+  float: left;
+  margin-top: 20px;
+  margin-left: 60px;
+  width: 350px;
+  text-align: center;
+  background: #d4d6d8;
+  border-radius: 5px;
+  min-height: 300px;
+}
+
+.appointment-btn {
+  margin-left: 10px;
+}
+
+h2 {
+  font-size: 1.25em;
+}

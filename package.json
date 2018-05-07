@@ -1,0 +1,20 @@
+{
+  "name": "appt-scheduler",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.22.1",
+    "moment-range": "^4.0.1",
+    "react": "^16.3.2",
+    "react-calendar": "^2.14.0",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "react-time-range": "^1.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
